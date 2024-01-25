@@ -8,23 +8,27 @@
 }
 
 /*main index*/
-#pdm {
+main #pdm {
   padding-top: 25px;
 }
-#pdm .parrafosconborde {
+main #pdm .parrafosconborde {
   border-right: 1px solid rgb(78, 74, 74);
 }
-#pdm section .mejoracoldos li a {
+main #pdm section .mejoracoldos li a {
   text-decoration: none;
 }
-#pdm section .mejoracoldos .card {
+main #pdm section .mejoracoldos .card {
   width: 15rem;
+}
+main #pdm div .espaciado-tarjetas {
+  margin-bottom: 20px;
 }
 
 /*MAIN-SALUD */
-main {
-  padding: 25px;
+.salud-main div div div .tarjetas .espaciado-tarjetas {
+  margin-bottom: 20px;
 }
+
 /*MAIN ALIMENTACION*/
 /*MAIN COMIDAS SANAS*/
 /*MAIN CALCULAR IMC
