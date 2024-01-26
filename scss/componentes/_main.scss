@@ -46,7 +46,7 @@ main{
 /*MAIN ALIMENTACION*/
 .alim-main{
     div{
-        div{
+        .justify-content-center{
             div{
                 .tarjeta-alimentacion{
                     .espaciado-tarjetas{
@@ -54,6 +54,15 @@ main{
                     }
                 }
             }
+        }
+    }
+}
+
+/*MAIN IMPORTANCIA DEL DEPORTE*/
+main{
+    div{
+        .tarjeta-importanciadep{
+            margin-bottom: 20px;
         }
     }
 }

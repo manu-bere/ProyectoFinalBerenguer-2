@@ -30,6 +30,15 @@ main #pdm div .espaciado-tarjetas {
 }
 
 /*MAIN ALIMENTACION*/
+.alim-main div .justify-content-center div .tarjeta-alimentacion .espaciado-tarjetas {
+  margin-bottom: 20px;
+}
+
+/*MAIN IMPORTANCIA DEL DEPORTE*/
+main div .tarjeta-importanciadep {
+  margin-bottom: 20px;
+}
+
 /*MAIN COMIDAS SANAS*/
 /*MAIN CALCULAR IMC
 
