@@ -48,9 +48,30 @@ main{
     div{
         .justify-content-center{
             div{
+                .alimentacion-c{
+                    .img-centrada-1{
+                        width: 70vh;
+                    }
+                    .img-centrada-2{
+                        width: 80vh;
+                    }
+                    .img-centrada-3{
+                        width: 100vh;
+                    }
+                }
                 .tarjeta-alimentacion{
                     .espaciado-tarjetas{
-                        margin-bottom: 20px;
+                        margin-bottom: 25px;
+                    }
+                }
+                .tarjeta-alimentacion{
+                    .espaciado-tarjetas{
+                        margin-bottom: 25px;
+                    }
+                }
+                .tarjeta-alimentacion{
+                    .espaciado-tarjetas{
+                        margin-bottom: 25px;
                     }
                 }
             }
