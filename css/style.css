@@ -8,20 +8,8 @@
 }
 
 /*main index*/
-main #pdm {
-  padding-top: 25px;
-}
-main #pdm .parrafosconborde {
-  border-right: 1px solid rgb(78, 74, 74);
-}
-main #pdm section .mejoracoldos li a {
-  text-decoration: none;
-}
-main #pdm section .mejoracoldos .card {
-  width: 15rem;
-}
-main #pdm div .espaciado-tarjetas {
-  margin-bottom: 20px;
+.inde-main div #pdm div .tarjeta-index .espaciado-tarjetas {
+  margin-bottom: 25px;
 }
 
 /*MAIN-SALUD */
@@ -31,13 +19,13 @@ main #pdm div .espaciado-tarjetas {
 
 /*MAIN ALIMENTACION*/
 .alim-main div .justify-content-center div .alimentacion-c .img-centrada-1 {
-  width: 70vh;
+  width: 60vh;
 }
 .alim-main div .justify-content-center div .alimentacion-c .img-centrada-2 {
-  width: 80vh;
+  width: 60vh;
 }
 .alim-main div .justify-content-center div .alimentacion-c .img-centrada-3 {
-  width: 100vh;
+  width: 60vh;
 }
 .alim-main div .justify-content-center div .tarjeta-alimentacion .espaciado-tarjetas {
   margin-bottom: 25px;
