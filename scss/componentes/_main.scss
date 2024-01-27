@@ -7,6 +7,13 @@
             .tarjeta-index{
                 .espaciado-tarjetas{
                     margin-bottom: 25px;
+                    .card{
+                        transition: 1s;
+                        &:hover{
+                            box-shadow: 3px 5px 7px black;
+                            transition: 1s;
+                        }
+                    }
                 }
             }
         }    
@@ -21,9 +28,27 @@
     div{
         div{
             div{
+                .texto-salud{
+                    .lista-salud{
+                        li{
+                            a{
+                                text-decoration: none;
+                            }
+                        }
+                    }
+                }
+            }
+            div{
                 .tarjetas{
                     .espaciado-tarjetas{
                         margin-bottom: 20px;
+                        .card{
+                            transition: 1s;
+                            &:hover{
+                                box-shadow: 3px 5px 7px black;
+                                transition: 1s;
+                            }
+                        }
                     }
                 }
             }
@@ -31,7 +56,7 @@
     }
 }
 
-/*MAIN ALIMENTACION*/
+/*MAIN ALIMENTACION*/ 
 .alim-main{
     div{
         .justify-content-center{
@@ -50,16 +75,13 @@
                 .tarjeta-alimentacion{
                     .espaciado-tarjetas{
                         margin-bottom: 25px;
-                    }
-                }
-                .tarjeta-alimentacion{
-                    .espaciado-tarjetas{
-                        margin-bottom: 25px;
-                    }
-                }
-                .tarjeta-alimentacion{
-                    .espaciado-tarjetas{
-                        margin-bottom: 25px;
+                        .card{
+                            transition: 1s;
+                            &:hover{
+                                box-shadow: 3px 5px 7px black;
+                                transition: 1s;
+                            }
+                        }
                     }
                 }
             }
@@ -70,9 +92,21 @@
 /*MAIN IMPORTANCIA DEL DEPORTE*/
 main{
     div{
-        .tarjeta-importanciadep{
-            margin-bottom: 20px;
+        div{
+            .tarjeta-importanciadep{
+                margin-bottom: 25px;
+                .espaciado-tarjetas{
+                    .card{
+                        transition: 1s;
+                        &:hover{
+                            box-shadow: 3px 5px 8px black;
+                            transition: 1s;
+                        }
+                    }
+                }
+            }
         }
+    
     }
 }
 
