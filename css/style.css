@@ -7,6 +7,13 @@
   text-decoration: none;
 }
 
+.heade-index div div div ul li a:hover {
+  color: gray;
+}
+.heade-index div div div ul .hovee a:hover {
+  color: gray;
+}
+
 /*main index*/
 .inde-main div #pdm div .tarjeta-index .espaciado-tarjetas {
   margin-bottom: 25px;
