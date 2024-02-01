@@ -8,6 +8,11 @@
 }
 
 /*main index*/
+.inde-main .fondo-deporte-inde {
+  background-image: url("../../imagenes/img-pag/-pag-index/fondo-index-plancha.jpg");
+  background-position: center;
+  background-size: cover;
+}
 .inde-main div #pdm div .tarjeta-index .espaciado-tarjetas {
   margin-bottom: 25px;
 }
