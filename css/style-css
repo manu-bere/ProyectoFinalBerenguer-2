@@ -20,9 +20,6 @@
 .inde-main .fondo-deporte-inde div div p {
   color: white;
 }
-.inde-main .margen-index- {
-  margin-top: 40px !important;
-}
 .inde-main .margen-index- #pdm div .tarjeta-index .espaciado-tarjetas {
   margin-bottom: 35px;
 }
@@ -119,4 +116,4 @@ main{
 }
 */
 
-/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=style-css.map */

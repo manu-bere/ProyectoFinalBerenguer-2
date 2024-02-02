@@ -8,6 +8,7 @@
         background-image: url("../../imagenes/img-pag/-pag-index/fondo-index-nuevo.jpg");
         background-position: center;
         background-size: cover;
+        margin-bottom: 30px;
         div{
             div{
                 h1{
@@ -21,12 +22,12 @@
     }
 
     .margen-index-{
-        margin-top: 15px;
+        margin-top: 40px !important;
         #pdm{
-        div{
+            div{
             .tarjeta-index{
                 .espaciado-tarjetas{
-                    margin-bottom: 25px;
+                    margin-bottom: 35px;
                     .card{
                         transition: 1s;
                         &:hover{
@@ -39,7 +40,7 @@
         }    
         }
     }
-    }
+}
 
 
 
