@@ -9,17 +9,26 @@
 
 /*main index*/
 .inde-main .fondo-deporte-inde {
-  background-image: url("../../imagenes/img-pag/-pag-index/fondo-index-plancha.jpg");
+  background-image: url("../../imagenes/img-pag/-pag-index/fondo-index-nuevo.jpg");
   background-position: center;
   background-size: cover;
 }
-.inde-main div #pdm div .tarjeta-index .espaciado-tarjetas {
+.inde-main .fondo-deporte-inde div div h1 {
+  color: white;
+}
+.inde-main .fondo-deporte-inde div div p {
+  color: white;
+}
+.inde-main .margen-index- {
+  margin-top: 15px;
+}
+.inde-main .margen-index- #pdm div .tarjeta-index .espaciado-tarjetas {
   margin-bottom: 25px;
 }
-.inde-main div #pdm div .tarjeta-index .espaciado-tarjetas .card {
+.inde-main .margen-index- #pdm div .tarjeta-index .espaciado-tarjetas .card {
   transition: 1s;
 }
-.inde-main div #pdm div .tarjeta-index .espaciado-tarjetas .card:hover {
+.inde-main .margen-index- #pdm div .tarjeta-index .espaciado-tarjetas .card:hover {
   box-shadow: 3px 5px 7px black;
   transition: 1s;
 }
